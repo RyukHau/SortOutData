@@ -1,0 +1,17 @@
+D:\Developer\Funciton\SortOutData\bin\Debug\net6.0\SortOutData.exe
+D:\Developer\Funciton\SortOutData\bin\Debug\net6.0\SortOutData.deps.json
+D:\Developer\Funciton\SortOutData\bin\Debug\net6.0\SortOutData.runtimeconfig.json
+D:\Developer\Funciton\SortOutData\bin\Debug\net6.0\SortOutData.dll
+D:\Developer\Funciton\SortOutData\bin\Debug\net6.0\SortOutData.pdb
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\SortOutData.csproj.AssemblyReference.cache
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\SortOutData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\SortOutData.AssemblyInfoInputs.cache
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\SortOutData.AssemblyInfo.cs
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\SortOutData.csproj.CoreCompileInputs.cache
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\SortOutData.dll
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\refint\SortOutData.dll
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\SortOutData.pdb
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\SortOutData.genruntimeconfig.cache
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\ref\SortOutData.dll
+D:\Developer\Funciton\SortOutData\bin\Debug\net6.0\CsvHelper.dll
+D:\Developer\Funciton\SortOutData\obj\Debug\net6.0\SortOutData.csproj.CopyComplete

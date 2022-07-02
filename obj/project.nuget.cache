@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ws7xu3Pit5zstmh3d/OojeHEpi1z332FSV1nlIfkT74tUuDDRzp5AdD5Y+74ZMAtLNEHUtV2z9IF86CSjp+biw==",
+  "success": true,
+  "projectFilePath": "D:\\Developer\\Funciton\\SortOutData\\SortOutData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryuk\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
